@@ -1,0 +1,12 @@
+.anchorTag {
+	margin-right: 1.5rem;
+	margin-left: 1.5rem;
+	margin-top: 0.4rem;
+	color: black;
+}
+
+.anchorTag:hover {
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+}

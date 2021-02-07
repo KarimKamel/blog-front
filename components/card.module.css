@@ -1,0 +1,8 @@
+.anchorTag {
+	text-decoration: none;
+	color: black;
+}
+.anchorTag:hover {
+	color: black;
+	text-decoration: none;
+}
